@@ -1,6 +1,6 @@
-# Bricks Game
+# Game Starter
 
-A game built with Electron and TypeScript.
+A repo to clone to make new games with Electron and TypeScript.
 
 ## Project Structure
 
